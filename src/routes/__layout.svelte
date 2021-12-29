@@ -4,7 +4,7 @@
 </script>
 
 <Header />
-NisseJoppe
+<p>NisseJoppe</p>
 <main>
   <slot />
 </main>
